@@ -1,0 +1,33 @@
+.storewrap{
+    height: 100vh;
+    width: 100vw;
+   background-color: grey;
+   
+}
+.storewrap__form h2{
+    text-transform: uppercase;
+}
+.storewrap__form{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 50%;
+    transform: translate(-50%,0%);
+    background-color: white;
+    padding: 20px;
+    border: 2px solid black;
+}
+.form__inputbox{
+    width: 98%;
+    height: 30px;
+}
+.form__button{
+    width: 100%;
+    border: 1px solid black;
+    box-shadow: none;
+    background-color: white;
+    text-transform: uppercase;
+}
+.form__button:hover{
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,25 @@
+.orderwrap__div{
+    display: flex;
+    border-bottom: 2px solid black;
+    padding: 10px;
+}
+.orderwrap__div span{
+    width: 100%;
+    text-align: start;
+}
+.orderwrap__heading{
+    text-align: center;
+}
+.orderwrap__list li{
+    list-style: none;
+}
+.orderwrap__name{
+    flex-grow: 2;
+}
+.orderwrap__count{
+    flex-grow: 3;
+    text-align: end;
+}
+.orderwrap__price{
+    flex-grow: 1;
+}

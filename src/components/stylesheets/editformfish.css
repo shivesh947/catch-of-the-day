@@ -1,0 +1,16 @@
+.fish__edit input{
+    width: 150px;
+    height: 20px;
+}
+.fish__edit select{
+    width: 150px;
+    height: 20px;
+}
+.fish__edit textarea{
+    width: 450px;
+    height: 20px;
+}
+.fish__edit{
+    border: 1px solid black;
+    padding:10px
+}
