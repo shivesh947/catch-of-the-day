@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/shivesh947/catch-of-the-day/static/css/main.407725eb.chunk.css",
-    "main.js": "/shivesh947/catch-of-the-day/static/js/main.b51a7e3d.chunk.js",
-    "main.js.map": "/shivesh947/catch-of-the-day/static/js/main.b51a7e3d.chunk.js.map",
-    "runtime-main.js": "/shivesh947/catch-of-the-day/static/js/runtime-main.f6abd24a.js",
-    "runtime-main.js.map": "/shivesh947/catch-of-the-day/static/js/runtime-main.f6abd24a.js.map",
-    "static/js/2.b78cd2d4.chunk.js": "/shivesh947/catch-of-the-day/static/js/2.b78cd2d4.chunk.js",
-    "static/js/2.b78cd2d4.chunk.js.map": "/shivesh947/catch-of-the-day/static/js/2.b78cd2d4.chunk.js.map",
-    "index.html": "/shivesh947/catch-of-the-day/index.html",
-    "precache-manifest.fd4aa5484c23fc7bf91e877403133e83.js": "/shivesh947/catch-of-the-day/precache-manifest.fd4aa5484c23fc7bf91e877403133e83.js",
-    "service-worker.js": "/shivesh947/catch-of-the-day/service-worker.js",
-    "static/css/main.407725eb.chunk.css.map": "/shivesh947/catch-of-the-day/static/css/main.407725eb.chunk.css.map",
-    "static/js/2.b78cd2d4.chunk.js.LICENSE.txt": "/shivesh947/catch-of-the-day/static/js/2.b78cd2d4.chunk.js.LICENSE.txt"
+    "main.css": "/shivesh947/reactbasic/static/css/main.407725eb.chunk.css",
+    "main.js": "/shivesh947/reactbasic/static/js/main.b51a7e3d.chunk.js",
+    "main.js.map": "/shivesh947/reactbasic/static/js/main.b51a7e3d.chunk.js.map",
+    "runtime-main.js": "/shivesh947/reactbasic/static/js/runtime-main.b5ca114f.js",
+    "runtime-main.js.map": "/shivesh947/reactbasic/static/js/runtime-main.b5ca114f.js.map",
+    "static/js/2.22d69ab6.chunk.js": "/shivesh947/reactbasic/static/js/2.22d69ab6.chunk.js",
+    "static/js/2.22d69ab6.chunk.js.map": "/shivesh947/reactbasic/static/js/2.22d69ab6.chunk.js.map",
+    "index.html": "/shivesh947/reactbasic/index.html",
+    "precache-manifest.8136f70b6127a36a916dda06fcd900df.js": "/shivesh947/reactbasic/precache-manifest.8136f70b6127a36a916dda06fcd900df.js",
+    "service-worker.js": "/shivesh947/reactbasic/service-worker.js",
+    "static/css/main.407725eb.chunk.css.map": "/shivesh947/reactbasic/static/css/main.407725eb.chunk.css.map",
+    "static/js/2.22d69ab6.chunk.js.LICENSE.txt": "/shivesh947/reactbasic/static/js/2.22d69ab6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6abd24a.js",
-    "static/js/2.b78cd2d4.chunk.js",
+    "static/js/runtime-main.b5ca114f.js",
+    "static/js/2.22d69ab6.chunk.js",
     "static/css/main.407725eb.chunk.css",
     "static/js/main.b51a7e3d.chunk.js"
   ]
